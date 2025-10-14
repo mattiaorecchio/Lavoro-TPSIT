@@ -8,8 +8,8 @@ Mattia Orecchio(project manager),
 Michele Delos(collaboratore),
 Giuseppe Altamore(collaboratore),
 Manuel di Bonito(collaboratore, 
-Francesco Mallardo finito in ospedale dopo aver assaggiato la pizza,
-Alessia D'isanto giorno di festa per viaggio a "PARIGI".
+Francesco Mallardo(collaboratore),
+Alessia D'isanto(collaboratore).
 
 
 

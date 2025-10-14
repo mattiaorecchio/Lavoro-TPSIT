@@ -15,7 +15,6 @@ Alessia D'isanto giorno di festa per viaggio a "PARIGI".
 
 
 
-<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8" />

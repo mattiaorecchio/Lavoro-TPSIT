@@ -5,11 +5,11 @@ al secondo sviluppatore e' stato assegnato al menu' dolci
 al terzo sviluppatore e' stato assegnato al menu' bevande
 al quarto sviluppatore e' stato assegnato al menu' vini e liquori
 Questo menu' della pizzeria "Palato Partenopeo" e' stato progettato da:
-Mattia Orecchio project manager
-Michele Delos collaboratore 
-Giuseppe Altamore collaboratore 
-Manuel di Bonito collaboratore
-Francesco Mallardo finito in ospedale dopo aver assaggiato la pizza
+Mattia Orecchio project manager,
+Michele Delos collaboratore, 
+Giuseppe Altamore collaboratore, 
+Manuel di Bonito collaboratore,
+Francesco Mallardo finito in ospedale dopo aver assaggiato la pizza,
 Alessia D'isanto giorno di festa per viaggio a "PARIGI"
 
 

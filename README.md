@@ -1,3 +1,20 @@
+Questo menu' e' stato progettato da 4 sviluppatori ed ognuno aveva un compito:
+il primo sviluppatore e' stato assegnato al menu' pizza
+il secondo sviluppaore e' stato assegnato al menu' dolci 
+il terzo sviluppatore e' stato assegnato al menu bevande
+il quarto sviluppatore e' stato assegnato al menu' vini e liquori
+Questo menu' della pizzeria "Palato Partenopeo" e' stato progettato da:
+Mattia Orecchio(project manager), 
+Michele Delos(collaboratore),
+Giuseppe Altamore(collaboratore),
+Manuel di Bonito(collaboratore, 
+Francesco Mallardo finito in ospedale dopo aver assaggiato la pizza,
+Alessia D'isanto giorno di festa per viaggio a "PARIGI".
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="it">
 <head>

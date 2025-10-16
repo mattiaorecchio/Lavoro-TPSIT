@@ -488,7 +488,8 @@ Alessia D'isanto(collaboratore).
 
 
   <footer>
-    © 2025 Pizzeria Palato Partenopeo - Tutti i diritti riservati
+    © 2025 Pizzeria Palato Partenopeo - Tradizione, gusto e passione napoletana: è questo il nostro segreto.
+Grazie di cuore per aver scelto la nostra pizzeria!
   </footer>
 
   <script>
